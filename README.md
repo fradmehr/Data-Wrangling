@@ -1,4 +1,4 @@
-# Data-Wrangling
+# Data-Wrangling (Json)
 
 Using data in file 'data/world_bank_projects.json' and the techniques demonstrated above,
 
@@ -7,3 +7,6 @@ Using data in file 'data/world_bank_projects.json' and the techniques demonstrat
 2) Find the top 10 major project themes (using column 'mjtheme_namecode')
 
 3) In 2. above you will notice that some entries have only the code and the name is missing. Create a dataframe with the missing names filled in.
+
+# Data-Wrangling (API)
+the code has been added here.
